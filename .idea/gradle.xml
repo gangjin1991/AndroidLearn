@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/aidldemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
